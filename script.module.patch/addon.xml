@@ -12,8 +12,8 @@
 		<platform>all</platform>
 		<summary lang="en_GB">Module providing access to voice control from application Mag (iOS)</summary>
 		<summary lang="ru_RU">Модуль для голосового управления медиацентром через приложение Mag (iOS)</summary>
-		<description lang="en_GB">Module providing access to youtube-dl video stream extraction for hundreds of sites. Version is based on youtube-dl date version: YY.MDD.V where V is the addon specific sub-version. Also provides downloading with the option for background downloading with a queue and queue manager.</description>
-		<description lang="ru_RU">Для переключения ТВ каналов, включения фильмов через Kinopoisk, прослушиванию музыки Spotify и Tidal.</description>
+		<description lang="en_GB">For switching TV channels, watching movies, listening to Spotify and Tidal music.</description>
+		<description lang="ru_RU">Для переключения ТВ каналов, просмотра фильмов, прослушивания музыки Spotify и Tidal.</description>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 3, June 2007</license>
 		<source>https://github.com/vir-2-al/script.module.patch.git</source>
 		<assets>
